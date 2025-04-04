@@ -35,14 +35,14 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1532`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `150`
+当前合并节点总数: `1545`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `138`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `167`
-- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `135`
-- [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `21`
+- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `151`
+- [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `18`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `16`
-- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `139`
+- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `152`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `27`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `7`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `196`
@@ -50,10 +50,10 @@
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `80`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `84`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `103`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `22`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `24`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `25`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `179`
-- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `21`
+- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `18`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `41`
 
 ## 客户端选择
