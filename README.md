@@ -35,14 +35,14 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2053`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `182`
+当前合并节点总数: `2055`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `183`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `167`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `267`
 - [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `23`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `3`
-- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `138`
+- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `139`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `27`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `5`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `197`
