@@ -35,21 +35,21 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1817`
+当前合并节点总数: `1669`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `138`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `167`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `139`
 - [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `23`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `4`
-- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `116`
+- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `0`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `35`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `138`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `199`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `17`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `79`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `210`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `94`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `62`
 - [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `22`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `25`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `265`
