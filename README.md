@@ -35,11 +35,11 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1980`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `153`
+当前合并节点总数: `2069`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `239`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `186`
-- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `229`
+- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `232`
 - [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `20`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `4`
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `156`
