@@ -35,10 +35,10 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1843`
+当前合并节点总数: `2041`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `87`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
-- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `176`
+- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `186`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `221`
 - [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `18`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `58`
@@ -54,7 +54,7 @@
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `25`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `341`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `18`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `95`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `283`
 
 ## 客户端选择
 ### 主流桌面客户端
