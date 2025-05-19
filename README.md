@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1809`
+当前合并节点总数: `1855`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `54`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `186`
@@ -52,7 +52,7 @@
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `105`
 - [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `17`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `25`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `283`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `329`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `17`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `283`
 
