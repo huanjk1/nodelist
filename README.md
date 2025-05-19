@@ -35,26 +35,26 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2039`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `98`
+当前合并节点总数: `1649`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `115`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `186`
-- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `221`
-- [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `18`
+- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `132`
+- [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `0`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `58`
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `156`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `44`
-- [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
+- [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `15`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `197`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `17`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `78`
-- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `45`
+- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `43`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `123`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `29`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `25`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `341`
-- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `18`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `283`
+- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `17`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `0`
 
 ## 客户端选择
 ### 主流桌面客户端
