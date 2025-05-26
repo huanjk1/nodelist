@@ -35,16 +35,16 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1943`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `48`
+当前合并节点总数: `1949`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `52`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `188`
-- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `219`
+- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `217`
 - [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `17`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `4`
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `156`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `35`
-- [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `30`
+- [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `34`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `193`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `17`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `68`
