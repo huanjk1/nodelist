@@ -35,8 +35,8 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1573`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `90`
+当前合并节点总数: `1558`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `79`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `188`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `178`
@@ -45,7 +45,7 @@
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `156`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `42`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `20`
-- [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `199`
+- [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `195`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `17`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `74`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `56`
