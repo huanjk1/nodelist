@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1654`
+当前合并节点总数: `1652`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `229`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `168`
@@ -45,11 +45,11 @@
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `156`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `29`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `31`
-- [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `196`
+- [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `194`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `79`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `31`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `63`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `13`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `65`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `11`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `197`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `21`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `97`
