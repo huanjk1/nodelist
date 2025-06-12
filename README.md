@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1776`
+当前合并节点总数: `1799`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `309`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `122`
@@ -49,10 +49,10 @@
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `61`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `38`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `92`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `10`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `14`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `358`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `18`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `61`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `80`
 
 ## 客户端选择
 ### 主流桌面客户端
