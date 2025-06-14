@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1451`
+当前合并节点总数: `1423`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `34`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `122`
@@ -44,7 +44,7 @@
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `12`
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `156`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `29`
-- [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `42`
+- [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `14`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `197`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `61`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `40`
