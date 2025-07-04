@@ -403,7 +403,7 @@ proxies:
 - {name: 34-0401-GB, server: 62.100.205.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 34-0402-US, server: 212.102.47.130, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 34-0403-RELAY, server: sSsdCVfBGNjkI.931.PP.Ua, port: 443, type: vmess, uuid: a4e8ec0a-75d0-4fc5-837a-4973ed3a9d3e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /, headers: {host: sSsdCVfBGNjkI.931.PP.Ua}}, udp: true}
-- {name: 34-0404-LT, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+- {name: 34-0404-FR, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
 - {name: 34-0405-NL, server: 193.29.139.138, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
 - {name: 34-0406-FR, server: 45.158.171.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
 - {name: 34-0407-FR, server: 45.158.171.136, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
@@ -734,12 +734,12 @@ proxies:
 - {name: 34-0732-CN, server: gdgs.tarioblink.me, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: 4619d5a0-258a-48f4-98bf-88843d5d7a83}
 - {name: 34-0733-CN, server: lm.kaiqsz.com, port: 51075, type: trojan, password: 5af7fa3a-ad9c-4346-ba7f-184e89c91758, sni: mmbiz10.redapricotcloud.com, skip-cert-verify: true, udp: true}
 - {name: 34-0734-CN, server: naiu-us.05vr9nyqg5.download, port: 13019, type: trojan, password: 65f14831-5c67-483f-9e85-f3aa73f21187, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true, udp: true}
-- {name: 34-0735-CN, server: hk01.x.quickcht3.club, port: 52611, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b}
+- {name: 34-0735-HK, server: hk01.x.quickcht3.club, port: 52611, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b}
 - {name: 34-0736-CN, server: qh62onjn.slashdevslashnetslashtun.net, port: 15011, type: ss, cipher: aes-256-gcm, password: TCEL1H0XD7TWAKI0}
 - {name: 34-0737-CN, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 21004, type: ss, cipher: aes-256-gcm, password: QF377GGQ00RATCMK}
 - {name: 34-0738-CN, server: w72tapyb.slashdevslashnetslashtun.net, port: 21003, type: ss, cipher: aes-256-gcm, password: HQJQFA7U2Z5HGZWH}
 - {name: 34-0739-JP, server: 45.159.51.116, port: 48019, type: vmess, uuid: c06797d5-fa41-4b48-b132-d268d2acb302, alterId: 0, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0740-CN, server: hk01.x.quickcht3.club, port: 52611, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b}
+- {name: 34-0740-HK, server: hk01.x.quickcht3.club, port: 52611, type: ss, cipher: chacha20-ietf-poly1305, password: 2be0c954-4291-45ea-b47d-ca713180550b}
 - {name: 34-0741-CN, server: w72tapyb.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 2H98UZT9LT1TE3X9}
 - {name: 34-0742-CN, server: qh62onjn.slashdevslashnetslashtun.net, port: 15011, type: ss, cipher: aes-256-gcm, password: TCEL1H0XD7TWAKI0}
 - {name: 34-0743-CN, server: 183.236.51.38, port: 49302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
@@ -1073,16 +1073,16 @@ proxies:
 - {name: 34-1071-NOWHERE, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: eb9b6d07-8644-437f-a1c5-dbed378d38ed, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /2024, headers: {host: yyyt-au-2024.mofaxw.top}}, udp: true}
 - {name: 34-1072-NOWHERE, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: eb9b6d07-8644-437f-a1c5-dbed378d38ed, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /2024, headers: {host: yyyt-sg-2024.mofaxw.top}}, udp: true}
 - {name: 34-1073-NOWHERE, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: eb9b6d07-8644-437f-a1c5-dbed378d38ed, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /2024, headers: {host: yyyt-hk-2024.mofaxw.top}}, udp: true}
-- {name: 34-1074-CN, server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 15.mamamajd.site}}, udp: true}
-- {name: 34-1075-CN, server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 12.mamamajd.site}}, udp: true}
-- {name: 34-1076-CN, server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 17.mamamajd.site}}, udp: true}
-- {name: 34-1077-CN, server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 11.mamamajd.site}}, udp: true}
-- {name: 34-1078-CN, server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 19.mamamajd.site}}, udp: true}
-- {name: 34-1079-CN, server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 16.mamamajd.site}}, udp: true}
-- {name: 34-1080-CN, server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 18.mamamajd.site}}, udp: true}
-- {name: 34-1081-CN, server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 5.mamamajd.site}}, udp: true}
-- {name: 34-1082-CN, server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 13.mamamajd.site}}, udp: true}
-- {name: 34-1083-CN, server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 5095caac-6e66-3e6a-9be3-095f4bede78b, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 14.mamamajd.site}}, udp: true}
+- {name: 34-1074-CN, server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 15.mamamajd.site}}, udp: true}
+- {name: 34-1075-CN, server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 12.mamamajd.site}}, udp: true}
+- {name: 34-1076-CN, server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 17.mamamajd.site}}, udp: true}
+- {name: 34-1077-CN, server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 11.mamamajd.site}}, udp: true}
+- {name: 34-1078-CN, server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 19.mamamajd.site}}, udp: true}
+- {name: 34-1079-CN, server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 16.mamamajd.site}}, udp: true}
+- {name: 34-1080-CN, server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 18.mamamajd.site}}, udp: true}
+- {name: 34-1081-CN, server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 5.mamamajd.site}}, udp: true}
+- {name: 34-1082-CN, server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 13.mamamajd.site}}, udp: true}
+- {name: 34-1083-CN, server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 0455fd2a-9f6c-3ec4-8040-ebd3f25bb09a, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 14.mamamajd.site}}, udp: true}
 - {name: 34-1084-NOWHERE, server: usbk.cfip.top, port: 8443, type: vmess, uuid: 36f71b02-04bf-4ab6-8f17-850a002b448d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /cctv13/hd.m3u8, headers: {host: usbk.cfip.top}}, udp: true}
 - {name: 34-1085-NOWHERE, server: US-Los_Angeles-A.cfip.top, port: 8443, type: vmess, uuid: 36f71b02-04bf-4ab6-8f17-850a002b448d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /cctv13/hd.m3u8, headers: {host: us-los_angeles-a.cfip.top}}, udp: true}
 - {name: 34-1086-NOWHERE, server: US-Los_Angeles-B.cfip.top, port: 8443, type: vmess, uuid: 36f71b02-04bf-4ab6-8f17-850a002b448d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /cctv13/hd.m3u8, headers: {host: us-los_angeles-b.cfip.top}}, udp: true}
@@ -1245,149 +1245,148 @@ proxies:
 - {name: 34-1243-DE, server: 45.150.32.13, port: 14628, type: ss, cipher: chacha20-ietf-poly1305, password: DKyRdoqQIebdKZVYs5GzW8}
 - {name: 34-1244-DE, server: 45.144.54.33, port: 34803, type: ss, cipher: chacha20-ietf-poly1305, password: LiHQX9cDbdooBHlIg0eiqQ}
 - {name: 34-1245-NL, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8}
-- {name: 34-1246-RELAY, server: 154.83.2.200, port: 443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubdns.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1247-LT, server: 45.87.175.58, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-- {name: 34-1248-SK, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1249-NOWHERE, server: 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net, port: 15229, type: trojan, password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d, skip-cert-verify: true, udp: true}
-- {name: 34-1250-KR, server: 125.141.31.72, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
-- {name: 34-1251-NOWHERE, server: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, port: 15229, type: trojan, password: 5e2f888c-68ef-11ef-96ca-f23c9164ca5d, sni: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, skip-cert-verify: true, udp: true}
-- {name: 34-1252-NOWHERE, server: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, port: 15229, type: trojan, password: def14a51-e0d9-11ec-8429-f23c91cfbbc9, sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, skip-cert-verify: true, udp: true}
-- {name: 34-1253-JP, server: 52.193.38.93, port: 443, type: ss, cipher: aes-256-cfb, password: awsps0501}
-- {name: 34-1254-US, server: 156.251.179.181, port: 636, type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
-- {name: 34-1255-CN, server: 36.151.192.10, port: 9141, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1256-CN, server: 36.151.192.58, port: 51083, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1257-CN, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1258-CN, server: 36.151.192.61, port: 4445, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1259-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
-- {name: 34-1260-JP, server: 137.220.142.139, port: 636, type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
-- {name: 34-1261-CN, server: 36.151.192.60, port: 39701, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1262-KR, server: 15.165.19.79, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1263-CN, server: 36.151.192.61, port: 20615, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1264-CN, server: 36.151.192.60, port: 7571, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1265-CN, server: 36.151.192.60, port: 40621, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1266-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1267-CN, server: 36.151.192.61, port: 4447, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1268-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1269-CN, server: 36.151.251.56, port: 5975, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1270-JP, server: 52.193.38.93, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YXdzcHMwNTAx}
-- {name: 34-1271-CN, server: 36.151.192.61, port: 444, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1272-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA}
-- {name: 34-1273-VN, server: 103.163.218.2, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw}
-- {name: 34-1274-RELAY, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1275-JP, server: 137.220.142.139, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls", type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
-- {name: 34-1276-CN, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1277-CN, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1278-US, server: 156.251.179.181, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
-- {name: 34-1279-KR, server: 121.149.228.125, port: 12315, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1280-KR, server: 121.178.51.126, port: 50000, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1281-US, server: 154.26.181.30, port: 45956, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1282-US, server: 67.226.221.12, port: 80, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1283-NOWHERE, server: 103.160.204.59, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1284-RELAY, server: icook.tw, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1246-RELAY, server: 172.67.150.132, port: 443, type: trojan, password: 0f7070cd-c91d-4532-a51f-56da4f0e94be, sni: eeddcvfgt6.444682.xyz, skip-cert-verify: true, udp: true}
+- {name: 34-1247-SK, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-1248-NOWHERE, server: 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net, port: 15229, type: trojan, password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d, skip-cert-verify: true, udp: true}
+- {name: 34-1249-KR, server: 125.141.31.72, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
+- {name: 34-1250-NOWHERE, server: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, port: 15229, type: trojan, password: 5e2f888c-68ef-11ef-96ca-f23c9164ca5d, sni: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, skip-cert-verify: true, udp: true}
+- {name: 34-1251-NOWHERE, server: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, port: 15229, type: trojan, password: def14a51-e0d9-11ec-8429-f23c91cfbbc9, sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, skip-cert-verify: true, udp: true}
+- {name: 34-1252-JP, server: 52.193.38.93, port: 443, type: ss, cipher: aes-256-cfb, password: awsps0501}
+- {name: 34-1253-US, server: 156.251.179.181, port: 636, type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
+- {name: 34-1254-CN, server: 36.151.192.10, port: 9141, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1255-CN, server: 36.151.192.58, port: 51083, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1256-CN, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1257-CN, server: 36.151.192.61, port: 4445, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1258-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
+- {name: 34-1259-JP, server: 137.220.142.139, port: 636, type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
+- {name: 34-1260-CN, server: 36.151.192.60, port: 39701, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1261-KR, server: 15.165.19.79, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1262-CN, server: 36.151.192.61, port: 20615, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1263-CN, server: 36.151.192.60, port: 7571, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1264-CN, server: 36.151.192.60, port: 40621, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1265-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1266-CN, server: 36.151.192.61, port: 4447, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1267-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-1268-CN, server: 36.151.251.56, port: 5975, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1269-JP, server: 52.193.38.93, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YXdzcHMwNTAx}
+- {name: 34-1270-CN, server: 36.151.192.61, port: 444, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1271-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA}
+- {name: 34-1272-VN, server: 103.163.218.2, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw}
+- {name: 34-1273-RELAY, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1274-CN, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1275-CN, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1276-US, server: 156.251.179.181, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
+- {name: 34-1277-JP, server: 137.220.142.139, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls", type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
+- {name: 34-1278-KR, server: 121.149.228.125, port: 12315, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1279-KR, server: 121.178.51.126, port: 50000, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1280-US, server: 154.26.181.30, port: 45956, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1281-US, server: 67.226.221.12, port: 80, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1282-NOWHERE, server: 103.160.204.59, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1283-RELAY, server: icook.tw, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1284-RELAY, server: 104.21.14.54, port: 443, type: trojan, password: e4cbe8b8-37db-4aaa-8469-b84f34c51ebc, sni: 6666YHjU.777159.xYz, skip-cert-verify: true, udp: true}
 - {name: 34-1285-RELAY, server: 104.21.14.54, port: 443, type: trojan, password: e4cbe8b8-37db-4aaa-8469-b84f34c51ebc, sni: 6666YHjU.777159.xYz, skip-cert-verify: true, udp: true}
 - {name: 34-1286-RELAY, server: 104.21.14.54, port: 443, type: trojan, password: e4cbe8b8-37db-4aaa-8469-b84f34c51ebc, sni: 6666YHjU.777159.xYz, skip-cert-verify: true, udp: true}
-- {name: 34-1287-RELAY, server: 104.21.14.54, port: 443, type: trojan, password: e4cbe8b8-37db-4aaa-8469-b84f34c51ebc, sni: 6666YHjU.777159.xYz, skip-cert-verify: true, udp: true}
-- {name: 34-1288-RELAY, server: ip.sb, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1289-RELAY, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1290-RU, server: 45.67.215.217, port: 2087, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1291-RELAY, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1292-RELAY, server: 188.164.159.214, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1293-RELAY, server: sullivan.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1294-RELAY, server: 172.67.110.232, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1295-US, server: 192.200.160.169, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1296-RELAY, server: 46.254.93.243, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1297-RELAY, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1298-RELAY, server: 104.17.128.1, port: 2096, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1299-RELAY, server: 104.17.68.85, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1300-US, server: 192.9.137.193, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1301-LU, server: 45.80.209.25, port: 81, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1302-RELAY, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1303-RELAY, server: 108.165.152.55, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1304-RELAY, server: 103.116.7.103, port: 2083, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1305-RELAY, server: 5.182.84.244, port: 443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1306-RELAY, server: 141.11.203.191, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1307-US, server: 199.34.228.50, port: 2053, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1308-RELAY, server: ignacio.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1309-RELAY, server: 167.68.4.58, port: 443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1310-RELAY, server: 31.43.179.60, port: 2053, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1311-RELAY, server: 154.197.64.104, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1312-RELAY, server: 103.116.7.100, port: 2087, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1313-RELAY, server: 167.68.4.10, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1314-RELAY, server: 162.159.129.67, port: 8443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1315-US, server: 199.34.228.178, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1316-RELAY, server: 188.164.159.74, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1317-RELAY, server: 31.43.179.27, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1318-RELAY, server: 104.17.71.31, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1319-RELAY, server: 45.150.115.195, port: 2087, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1320-RELAY, server: 213.241.198.189, port: 2053, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1321-RELAY, server: 167.68.4.223, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1322-RELAY, server: 188.164.159.18, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1323-RELAY, server: shopify.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1324-RELAY, server: 188.164.159.98, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1325-RELAY, server: 188.164.159.185, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1326-RELAY, server: 154.197.64.206, port: 443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1327-RELAY, server: 108.165.152.14, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1328-RELAY, server: whatismyipaddress.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1329-RELAY, server: 103.116.7.220, port: 2096, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1330-US, server: 209.94.90.87, port: 2087, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1331-RELAY, server: 103.116.7.133, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1332-NL, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1333-RELAY, server: 162.159.36.104, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1334-RELAY, server: 176.53.144.206, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1335-RELAY, server: 5.182.85.255, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1336-RELAY, server: 188.164.159.234, port: 2083, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1337-RELAY, server: 45.67.214.3, port: 2096, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1338-KR, server: 112.162.203.5, port: 50000, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1339-RELAY, server: 46.254.92.142, port: 2087, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1340-NL, server: 5.35.68.249, port: 2053, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1341-KR, server: 49.1.224.28, port: 10201, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1342-RELAY, server: 172.67.243.218, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-1343-US, server: 135.84.74.254, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
-- {name: 34-1344-JP, server: 52.193.38.93, port: 443, type: ss, cipher: aes-256-cfb, password: awsps0501}
-- {name: 34-1345-US, server: 156.251.179.181, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
-- {name: 34-1346-CN, server: 36.151.192.61, port: 444, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1347-CN, server: 36.151.192.58, port: 51083, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1348-CN, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1349-CN, server: 36.151.192.61, port: 4445, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1350-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
-- {name: 34-1351-JP, server: 137.220.142.139, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls", type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
-- {name: 34-1352-CN, server: 36.151.192.60, port: 39701, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1353-KR, server: 15.165.19.79, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1354-CN, server: 36.151.192.61, port: 20615, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1355-CN, server: 36.151.192.60, port: 7571, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1356-CN, server: 36.151.192.60, port: 40621, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1357-CN, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1358-CN, server: 36.151.192.61, port: 4447, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1359-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1360-CN, server: 36.151.251.56, port: 5975, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1361-SK, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1362-NOWHERE, server: 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net, port: 15229, type: trojan, password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d, skip-cert-verify: true, udp: true}
-- {name: 34-1363-KR, server: 125.141.31.72, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
-- {name: 34-1364-NOWHERE, server: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, port: 15229, type: trojan, password: 5e2f888c-68ef-11ef-96ca-f23c9164ca5d, sni: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, skip-cert-verify: true, udp: true}
-- {name: 34-1365-NOWHERE, server: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, port: 15229, type: trojan, password: def14a51-e0d9-11ec-8429-f23c91cfbbc9, sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, skip-cert-verify: true, udp: true}
-- {name: 34-1366-JP, server: 52.193.38.93, port: 443, type: ss, cipher: aes-256-cfb, password: awsps0501}
-- {name: 34-1367-US, server: 156.251.179.181, port: 636, type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
-- {name: 34-1368-CN, server: 36.151.192.10, port: 9141, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1369-CN, server: 36.151.192.58, port: 51083, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1370-CN, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1371-CN, server: 36.151.192.61, port: 4445, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1372-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
-- {name: 34-1373-JP, server: 137.220.142.139, port: 636, type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
-- {name: 34-1374-CN, server: 36.151.192.60, port: 39701, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1375-KR, server: 15.165.19.79, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1376-CN, server: 36.151.192.61, port: 20615, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1377-CN, server: 36.151.192.60, port: 7571, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1378-CN, server: 36.151.192.60, port: 40621, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1379-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1380-CN, server: 36.151.192.61, port: 4447, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1381-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1382-CN, server: 36.151.251.56, port: 5975, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1383-JP, server: 52.193.38.93, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YXdzcHMwNTAx}
-- {name: 34-1384-CN, server: 36.151.192.61, port: 444, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-1385-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA}
-- {name: 34-1386-VN, server: 103.163.218.2, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw}
-- {name: 34-1387-RELAY, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1287-RELAY, server: ip.sb, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1288-RELAY, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1289-RU, server: 45.67.215.217, port: 2087, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1290-RELAY, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1291-RELAY, server: 188.164.159.214, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1292-RELAY, server: sullivan.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1293-RELAY, server: 172.67.110.232, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1294-US, server: 192.200.160.169, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1295-RELAY, server: 46.254.93.243, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1296-RELAY, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1297-RELAY, server: 104.17.128.1, port: 2096, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1298-RELAY, server: 104.17.68.85, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1299-US, server: 192.9.137.193, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1300-LU, server: 45.80.209.25, port: 81, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1301-RELAY, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: bk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1302-RELAY, server: 108.165.152.55, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1303-RELAY, server: 103.116.7.103, port: 2083, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1304-RELAY, server: 5.182.84.244, port: 443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1305-RELAY, server: 141.11.203.191, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1306-US, server: 199.34.228.50, port: 2053, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1307-RELAY, server: ignacio.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1308-RELAY, server: 167.68.4.58, port: 443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1309-RELAY, server: 31.43.179.60, port: 2053, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1310-RELAY, server: 154.197.64.104, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1311-RELAY, server: 103.116.7.100, port: 2087, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1312-RELAY, server: 167.68.4.10, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1313-RELAY, server: 162.159.129.67, port: 8443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1314-US, server: 199.34.228.178, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1315-RELAY, server: 188.164.159.74, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1316-RELAY, server: 31.43.179.27, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1317-RELAY, server: 104.17.71.31, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1318-RELAY, server: 45.150.115.195, port: 2087, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1319-RELAY, server: 213.241.198.189, port: 2053, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1320-RELAY, server: 167.68.4.223, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1321-RELAY, server: 188.164.159.18, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1322-RELAY, server: shopify.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1323-RELAY, server: 188.164.159.98, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1324-RELAY, server: 188.164.159.185, port: 8443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1325-RELAY, server: 154.197.64.206, port: 443, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1326-RELAY, server: 108.165.152.14, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1327-RELAY, server: whatismyipaddress.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1328-RELAY, server: 103.116.7.220, port: 2096, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1329-US, server: 209.94.90.87, port: 2087, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1330-RELAY, server: 103.116.7.133, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1331-NL, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1332-RELAY, server: 162.159.36.104, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1333-RELAY, server: 176.53.144.206, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1334-RELAY, server: 5.182.85.255, port: 2096, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1335-RELAY, server: 188.164.159.234, port: 2083, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1336-RELAY, server: 45.67.214.3, port: 2096, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1337-KR, server: 112.162.203.5, port: 50000, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1338-RELAY, server: 46.254.92.142, port: 2087, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1339-NL, server: 5.35.68.249, port: 2053, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1340-KR, server: 49.1.224.28, port: 10201, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1341-RELAY, server: 172.67.243.218, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: xk.ylka.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1342-US, server: 135.84.74.254, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: true, udp: true}
+- {name: 34-1343-JP, server: 52.193.38.93, port: 443, type: ss, cipher: aes-256-cfb, password: awsps0501}
+- {name: 34-1344-US, server: 156.251.179.181, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
+- {name: 34-1345-CN, server: 36.151.192.61, port: 444, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1346-CN, server: 36.151.192.58, port: 51083, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1347-CN, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1348-CN, server: 36.151.192.61, port: 4445, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1349-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
+- {name: 34-1350-JP, server: 137.220.142.139, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls", type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
+- {name: 34-1351-CN, server: 36.151.192.60, port: 39701, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1352-KR, server: 15.165.19.79, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1353-CN, server: 36.151.192.61, port: 20615, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1354-CN, server: 36.151.192.60, port: 7571, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1355-CN, server: 36.151.192.60, port: 40621, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1356-CN, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1357-CN, server: 36.151.192.61, port: 4447, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1358-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-1359-CN, server: 36.151.251.56, port: 5975, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1360-SK, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-1361-NOWHERE, server: 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net, port: 15229, type: trojan, password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d, skip-cert-verify: true, udp: true}
+- {name: 34-1362-KR, server: 125.141.31.72, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
+- {name: 34-1363-NOWHERE, server: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, port: 15229, type: trojan, password: 5e2f888c-68ef-11ef-96ca-f23c9164ca5d, sni: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, skip-cert-verify: true, udp: true}
+- {name: 34-1364-NOWHERE, server: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, port: 15229, type: trojan, password: def14a51-e0d9-11ec-8429-f23c91cfbbc9, sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, skip-cert-verify: true, udp: true}
+- {name: 34-1365-JP, server: 52.193.38.93, port: 443, type: ss, cipher: aes-256-cfb, password: awsps0501}
+- {name: 34-1366-US, server: 156.251.179.181, port: 636, type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
+- {name: 34-1367-CN, server: 36.151.192.10, port: 9141, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1368-CN, server: 36.151.192.58, port: 51083, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1369-CN, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1370-CN, server: 36.151.192.61, port: 4445, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1371-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
+- {name: 34-1372-JP, server: 137.220.142.139, port: 636, type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
+- {name: 34-1373-CN, server: 36.151.192.60, port: 39701, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1374-KR, server: 15.165.19.79, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1375-CN, server: 36.151.192.61, port: 20615, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1376-CN, server: 36.151.192.60, port: 7571, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1377-CN, server: 36.151.192.60, port: 40621, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1378-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1379-CN, server: 36.151.192.61, port: 4447, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1380-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-1381-CN, server: 36.151.251.56, port: 5975, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1382-JP, server: 52.193.38.93, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YXdzcHMwNTAx}
+- {name: 34-1383-CN, server: 36.151.192.61, port: 444, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-1384-KR, server: p222.panda001.net, port: 15098, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA}
+- {name: 34-1385-VN, server: 103.163.218.2, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw}
+- {name: 34-1386-RELAY, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-1387-US, server: 156.251.179.181, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
 - {name: 34-1388-JP, server: 137.220.142.139, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls", type: ss, cipher: aes-256-gcm, password: 70a0b8103356}
-- {name: 34-1389-CN, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1390-CN, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
-- {name: 34-1391-US, server: 156.251.179.181, port: "636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls", type: ss, cipher: aes-256-gcm, password: 23d03aa704c7}
+- {name: 34-1389-CN, server: cn01.efan8867801.xyz, port: "8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
+- {name: 34-1390-CN, server: cn01.efan8867801.xyz, port: "8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com", type: ss, cipher: rc4-md5, password: efanccyun}
