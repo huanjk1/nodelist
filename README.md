@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1081`
+当前合并节点总数: `1105`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `18`
 - [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `45`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `18`
@@ -45,7 +45,7 @@
 - [snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `18`
 - [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes), 节点数量: `0`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `20`
-- [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `4`
+- [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `7`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `36`
 - [shahidbhutta/Clash](https://github.com/shahidbhutta/Clash), 节点数量: `0`
 - [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `50`
@@ -56,7 +56,7 @@
 - [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs), 节点数量: `0`
 - [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `18`
 - [go4sharing/sub](https://github.com/go4sharing/sub), 节点数量: `59`
-- [mfuu/v2ray](https://github.com/mfuu/v2ray), 节点数量: `281`
+- [mfuu/v2ray](https://github.com/mfuu/v2ray), 节点数量: `302`
 
 ## 客户端选择
 ### 主流桌面客户端
