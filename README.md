@@ -35,11 +35,11 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1056`
+当前合并节点总数: `1045`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `13`
 - [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `138`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `17`
-- [huanjk1/V2rayN_Clash_Node_Getter](https://github.com/huanjk1/V2rayN_Clash_Node_Getter), 节点数量: `196`
+- [huanjk1/V2rayN_Clash_Node_Getter](https://github.com/huanjk1/V2rayN_Clash_Node_Getter), 节点数量: `185`
 - [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), 节点数量: `196`
 - [1vxiaov/free_proxies](https://github.com/vxiaov/free_proxies), 节点数量: `26`
 - [snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `42`
