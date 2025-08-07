@@ -775,103 +775,88 @@ proxies:
 - {name: 34-773-NOWHERE, server: usbk.cfip.top, port: 8443, type: vmess, uuid: 36f71b02-04bf-4ab6-8f17-850a002b448d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /cctv13/hd.m3u8, headers: {host: usbk.cfip.top}}, udp: true}
 - {name: 34-774-NOWHERE, server: US-Los_Angeles-A.cfip.top, port: 8443, type: vmess, uuid: 36f71b02-04bf-4ab6-8f17-850a002b448d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /cctv13/hd.m3u8, headers: {host: us-los_angeles-a.cfip.top}}, udp: true}
 - {name: 34-775-NOWHERE, server: US-Los_Angeles-B.cfip.top, port: 8443, type: vmess, uuid: 36f71b02-04bf-4ab6-8f17-850a002b448d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /cctv13/hd.m3u8, headers: {host: us-los_angeles-b.cfip.top}}, udp: true}
-- {name: 34-776-MD, server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-777-RELAY, server: JJJjjjjjmMMmM.4444926.XYZ, port: 443, type: vmess, uuid: dc50eb1d-244d-4711-b168-a101a5e6fb1b, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /awmqq79B17rfnpXiNaWb, headers: {host: jjjjjjjjmmmmm.4444926.xyz}}, udp: true}
-- {name: 34-778-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50014, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-779-CN, server: v35.heduian.link, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
-- {name: 34-780-US, server: okanc.iepl.cac.cab, port: 24001, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-781-RELAY, server: dddfFFvvBnhJU.931.pP.uA, port: 443, type: vmess, uuid: a4e8ec0a-75d0-4fc5-837a-4973ed3a9d3e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /14Fziqw1hYgCXNutkS5H, headers: {host: dddfffvvbnhju.931.pp.ua}}, udp: true}
-- {name: 34-782-RELAY, server: 199.181.197.60, port: 443, type: vmess, uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /us.kkp.me.eu.org/aa, headers: {host: farid.1.berozha.ir}}, udp: true}
-- {name: 34-783-GB, server: 89.185.84.172, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PPDI4eTCSUzQ}
-- {name: 34-784-IS, server: 37.235.49.168, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-785-LT, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-- {name: 34-786-FR, server: 45.158.171.70, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-- {name: 34-787-VN, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"}
-- {name: 34-788-AE, server: 151.242.251.153, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-- {name: 34-789-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50023, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-790-US, server: okanc.iepl.cac.cab, port: 23008, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-791-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50012, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-792-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50034, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-793-AE, server: 151.242.251.131, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-- {name: 34-794-NL, server: 164.92.156.41, port: 24206, type: ss, cipher: chacha20-ietf-poly1305, password: zI7kiNZ0UfV9cXB73a4nRD}
-- {name: 34-795-RELAY, server: 104.21.26.17, port: 443, type: trojan, password: 07a3df8f-2a2c-42f8-ad92-65889d90f3bf, sni: rrrRrRRrT.459.pp.ua, skip-cert-verify: true, udp: true}
-- {name: 34-796-GB, server: 18.130.58.99, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 34-797-RELAY, server: www.digitalocean.com, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: true, udp: true}
-- {name: 34-798-CN, server: v33.heduian.link, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
-- {name: 34-799-CN, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: ocbc.com}}, udp: true}
-- {name: 34-800-SC, server: 156.251.179.139, port: 636, type: ss, cipher: aes-256-gcm, password: 0b191076d18f, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /ugiibpkbca, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-801-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50013, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-802-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50022, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-803-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50032, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-804-RU, server: ytreserved.opengate.wiki, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: trErto8XzLALaQEslTp_jw}
-- {name: 34-805-RELAY, server: 172.67.135.37, port: 443, type: trojan, password: 07a3df8f-2a2c-42f8-ad92-65889d90f3bf, sni: rrrRrRRrT.459.pp.ua, skip-cert-verify: true, udp: true}
-- {name: 34-806-SG, server: 188.166.220.70, port: 37708, type: ss, cipher: chacha20-ietf-poly1305, password: 24Wk2NSszrfHn22zem1lYV}
-- {name: 34-807-SG, server: 202.79.161.21, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.20850772.xyz}}, udp: true}
-- {name: 34-808-HK, server: tx.lonxin.net, port: 443, type: vmess, uuid: 29eb7d31-7117-4df2-b96d-2e91c21c5157, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /c8cb8cfb292d7d0/, headers: {host: tx.lonxin.net}}, udp: true}
-- {name: 34-809-JP, server: 153.121.43.183, port: 10087, type: ss, cipher: aes-128-gcm, password: 10086}
-- {name: 34-810-AT, server: 152.53.2.128, port: 34045, type: ss, cipher: aes-256-gcm, password: "TG:@Enkelte_notif&&TG:@Notif_Chat"}
-- {name: 34-811-US, server: okanc.iepl.cac.cab, port: 24001, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-812-JP, server: 160.16.123.124, port: 10087, type: ss, cipher: aes-128-gcm, password: 10086}
-- {name: 34-813-VN, server: 103.163.218.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-- {name: 34-814-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50011, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-815-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50021, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-816-HK, server: 194.104.147.74, port: 1066, type: trojan, password: dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59, skip-cert-verify: true, udp: true}
-- {name: 34-817-JP, server: 137.220.142.139, port: 636, type: ss, cipher: aes-256-gcm, password: 70a0b8103356, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp5v1.lingjfjkm002.com, path: /bezradrqccl, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-818-FR, server: 45.158.171.60, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-- {name: 34-819-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50071, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-820-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50031, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-821-HK, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-822-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50024, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
+- {name: 34-776-VN, server: lifetime.idk.io.vn, port: 443, type: vmess, uuid: 90e56755-db30-4455-95d0-6ab9da305720, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /vmess, headers: {host: lifetime.idk.io.vn}}, udp: true}
+- {name: 34-777-NL, server: 185.245.107.250, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-778-RELAY, server: 104.21.63.135, port: 443, type: trojan, password: fa050497-fc2a-45ee-89c0-96670c4ecb65, sni: Rrr4.8906004.xYZ, skip-cert-verify: true, udp: true}
+- {name: 34-779-VN, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"}
+- {name: 34-780-HK, server: v10.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: v10.heduian.link}}, udp: true}
+- {name: 34-781-CN, server: v36.heduian.link, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
+- {name: 34-782-AE, server: ae-1.stunnel.cc, port: 8444, type: ss, cipher: chacha20-ietf-poly1305, password: tunnel-astrovpn_official_ae}
+- {name: 34-783-US, server: hicai5u.huvicloud.com, port: 443, type: vmess, uuid: bd33cc6a-5a55-4ae9-8a3a-7960138467c5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /hicaispeedtest, headers: {host: hicai5u.huvicloud.com}}, udp: true}
+- {name: 34-784-SC, server: 156.251.179.139, port: 636, type: ss, cipher: aes-256-gcm, password: 0b191076d18f, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /ugiibpkbca, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-785-CN, server: pop.plus.3123.0tk8a3a1q4t94dler.com, port: 4059, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=}
+- {name: 34-786-CN, server: v4.heduian.link, port: 30804, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: ocbc.com}}, udp: true}
+- {name: 34-787-US, server: 104.192.226.106, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-788-SC, server: 156.251.179.181, port: 636, type: ss, cipher: aes-256-gcm, password: 23d03aa704c7, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: cmihk3v1.dsjsapp.com, path: /grqhyifio, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-789-HK, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-790-CN, server: pop.plus.3123.0tk8a3a1q4t94dler.com, port: 7059, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=}
+- {name: 34-791-JP, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-792-US, server: test13.huvicloud.com, port: 443, type: vmess, uuid: b7087817-b967-474a-8e38-027e7c92a980, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /djakjhahf3fg, headers: {host: test13.huvicloud.com}}, udp: true}
+- {name: 34-793-CN, server: pop.plus.3123.0tk8a3a1q4t94dler.com, port: 6059, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=}
+- {name: 34-794-FR, server: 45.158.171.70, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+- {name: 34-795-HK, server: 194.104.147.74, port: 1066, type: trojan, password: dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59, skip-cert-verify: true, udp: true}
+- {name: 34-796-CN, server: pop.ultra.6341.0tk8a3a1q4t94dler.com, port: 4059, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=}
+- {name: 34-797-AE, server: 151.242.251.153, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+- {name: 34-798-PL, server: 2.59.163.104, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-799-CN, server: v24.heduian.link, port: 30824, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
+- {name: 34-800-NL, server: 164.92.156.41, port: 24206, type: ss, cipher: chacha20-ietf-poly1305, password: zI7kiNZ0UfV9cXB73a4nRD}
+- {name: 34-801-CN, server: 120.233.71.140, port: 52252, type: ss, cipher: aes-128-gcm, password: tmd8427}
+- {name: 34-802-AT, server: 152.53.2.128, port: 34045, type: ss, cipher: aes-256-gcm, password: "TG:@Enkelte_notif&&TG:@Notif_Chat"}
+- {name: 34-803-MD, server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-804-JP, server: 153.121.43.183, port: 10087, type: ss, cipher: aes-128-gcm, password: 10086}
+- {name: 34-805-JP, server: 137.220.142.139, port: 636, type: ss, cipher: aes-256-gcm, password: 70a0b8103356, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp5v1.lingjfjkm002.com, path: /bezradrqccl, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-806-DE, server: universal.opengate.wiki, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: trErto8XzLALaQEslTp_jw}
+- {name: 34-807-US, server: vall.codefyinc.com, port: 443, type: vmess, uuid: 606ece17-7279-4a43-b879-f8502103de8f, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /vmessws, headers: {host: vall.codefyinc.com}}, udp: true}
+- {name: 34-808-TW, server: 103.106.230.186, port: 81, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
+- {name: 34-809-CN, server: manager.gghbjnjbff.shop, port: 10001, type: vmess, uuid: e44d95b9-f2bf-49f8-80ac-c57e6664f96c, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /sg_1, headers: {host: manager.gghbjnjbff.shop}}, udp: true}
+- {name: 34-810-GB, server: 89.185.84.172, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PPDI4eTCSUzQ}
+- {name: 34-811-NL, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH}
+- {name: 34-812-VN, server: 103.163.218.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+- {name: 34-813-JP, server: 153.121.43.183, port: 10087, type: ss, cipher: aes-128-gcm, password: 10086}
+- {name: 34-814-RELAY, server: ssssssssssssfffffffgh.2032.pp.ua, port: 443, type: vmess, uuid: 4174b95d-115e-4d39-add6-1f8db95bb860, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /6We3U9Df1WGxgFnoFPw1, headers: {host: ssssssssssssfffffffgh.2032.pp.ua}}, udp: true}
+- {name: 34-815-KR, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
+- {name: 34-816-GB, server: 18.130.58.99, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 34-817-CN, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
+- {name: 34-818-HK, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-819-CN, server: 36.156.102.125, port: 447, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-820-CN, server: 36.156.102.125, port: 444, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.ithome.com, skip-cert-verify: true, udp: true}
+- {name: 34-821-CN, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-9VmVbE7FgF.download.microsoft.com, tls: true, skip-cert-verify: true}, udp: true}
+- {name: 34-822-JP, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: true}, udp: true}
 - {name: 34-823-US, server: okanc.iepl.cac.cab, port: 23008, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-824-JP, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-825-US, server: 104.192.226.106, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-826-CN, server: 080c3c7c-409f-4365-b986-b13992dabe0c.blue-bgp.xyz, port: 50033, type: trojan, password: 3c3e2f4f-0c77-4e2d-ab27-c3f12b31de8d, sni: upos-sz-mirrorcosb.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 34-827-RELAY, server: 205.233.181.3, port: 443, type: vmess, uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /us.kkp.me.eu.org/aa, headers: {host: farid.1.berozha.ir}}, udp: true}
-- {name: 34-828-AE, server: 151.242.251.144, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-- {name: 34-829-HK, server: 103.149.183.154, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-- {name: 34-830-US, server: hicai5u.huvicloud.com, port: 443, type: vmess, uuid: bd33cc6a-5a55-4ae9-8a3a-7960138467c5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /hicaispeedtest, headers: {host: hicai5u.huvicloud.com}}, udp: true}
-- {name: 34-831-GB, server: 18.130.58.99, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 34-832-CN, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
-- {name: 34-833-HK, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-834-CN, server: 36.156.102.125, port: 447, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-835-CN, server: 36.156.102.125, port: 444, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.ithome.com, skip-cert-verify: true, udp: true}
-- {name: 34-836-CN, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-9VmVbE7FgF.download.microsoft.com, tls: true, skip-cert-verify: true}, udp: true}
-- {name: 34-837-JP, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-838-US, server: okanc.iepl.cac.cab, port: 23008, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-839-CN, server: 36.156.102.125, port: 461, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-840-US, server: okanc.iepl.cac.cab, port: 24001, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-841-CN, server: 36.156.102.125, port: 1601, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-842-CN, server: 36.156.102.125, port: 697, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-843-RELAY, server: 172.67.214.21, port: 443, type: trojan, password: 7248e825-887c-48b9-83bc-c26bc6392bf8, sni: xXcdvFgt.191268.XYz, skip-cert-verify: true, udp: true}
-- {name: 34-844-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-9VmVbE7FgF.download.microsoft.com, tls: true, skip-cert-verify: true}, udp: true}
-- {name: 34-845-CN, server: 36.156.102.125, port: 329, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-846-CN, server: 36.156.102.125, port: 472, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
-- {name: 34-847-HK, server: ss.039.node-for-bigairport.win, port: 40408, type: ss, cipher: aes-256-gcm, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53}
-- {name: 34-848-HK, server: ss.038.node-for-bigairport.win, port: 11688, type: ss, cipher: aes-256-gcm, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53}
-- {name: 34-849-SC, server: 156.251.179.139, port: 636, type: ss, cipher: aes-256-gcm, password: 0b191076d18f, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /ugiibpkbca, tls: true, mux: true, skip-cert-verify: true}, udp: true}
-- {name: 34-850-HK, server: zz.xn--mes91t7ofgnw.com, port: 8081, type: ss, cipher: 2022-blake3-aes-128-gcm, password: Yzg1YmEyOWM5YjgyODg1Yg==:MGJmNTg4OWQtN2ZjMi00Yw==}
-- {name: 34-851-SG, server: 202.79.161.21, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.20850772.xyz}}, udp: true}
-- {name: 34-852-SG, server: 202.79.161.118, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.20850772.xyz}}, udp: true}
-- {name: 34-853-RELAY, server: 104.26.5.16, port: 2083, type: vmess, uuid: c208e0ae-6f6d-4745-99da-44a44744c530, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: "/linkwsrt?ed=2560", headers: {host: blaze-ger-248.blazecloudmain.site}}, udp: true}
-- {name: 34-854-RELAY, server: 172.67.72.15, port: 2083, type: vmess, uuid: c208e0ae-6f6d-4745-99da-44a44744c530, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: "/linkwsrt?ed=2560", headers: {host: blaze-ger-248.blazecloudmain.site}}, udp: true}
-- {name: 34-855-DE, server: universal.opengate.wiki, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: trErto8XzLALaQEslTp_jw}
-- {name: 34-856-DE, server: 85.208.139.158, port: 25607, type: ss, cipher: chacha20-ietf-poly1305, password: 7PPaSwxp3LLgJmWcpSclK6}
-- {name: 34-857-JP, server: 104.233.174.39, port: 34001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.36081115.xyz}}, udp: true}
-- {name: 34-858-JP, server: sakura.outlinekeys.net, port: 1235, type: ss, cipher: chacha20-ietf-poly1305, password: rhGz9UAp47At0PKbD4Lo5A}
-- {name: 34-859-FR, server: 109.172.55.38, port: 22695, type: ss, cipher: chacha20-ietf-poly1305, password: uE1eKTXRZcZHOnPSfB6jgz}
-- {name: 34-860-US, server: fox-usa.outlinekeys.net, port: 34868, type: ss, cipher: chacha20-ietf-poly1305, password: um2h1vWlmNLwKcN18ySgLQ}
-- {name: 34-861-US, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T}
-- {name: 34-862-US, server: vall.codefyinc.com, port: 443, type: vmess, uuid: 606ece17-7279-4a43-b879-f8502103de8f, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /vmessws, headers: {host: vall.codefyinc.com}}, udp: true}
-- {name: 34-863-RELAY, server: 141.11.203.26, port: 8880, type: vmess, uuid: 1fcb582e-7ffb-3708-8a0f-96c2a070e40d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/dabai&Telegram🇨🇳@WangCai2/?ed=2560", headers: {host: TG.WangCai2.s2.cn-db.top}}, udp: true}
-- {name: 34-864-US, server: 216.24.57.30, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: true, udp: true}
-- {name: 34-865-NOWHERE, server: 103.160.204.1, port: 443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-866-RELAY, server: 156.238.18.220, port: 8443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-867-RELAY, server: 156.238.19.8, port: 443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-868-NOWHERE, server: 103.160.204.4, port: 2083, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-869-RELAY, server: 154.83.2.125, port: 2087, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-870-NOWHERE, server: 103.160.204.49, port: 2096, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-871-GB, server: 89.185.84.172, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PPDI4eTCSUzQ}
-- {name: 34-872-NL, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH}
-- {name: 34-873-NL, server: 185.245.107.250, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
-- {name: 34-874-VN, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA}
-- {name: 34-875-VN, server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"}
+- {name: 34-824-CN, server: 36.156.102.125, port: 461, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-825-US, server: okanc.iepl.cac.cab, port: 24001, type: trojan, password: 6b5b43c9-05bd-471e-b502-d52c0dbd55fd, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 34-826-CN, server: 36.156.102.125, port: 1601, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-827-CN, server: 36.156.102.125, port: 697, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-828-RELAY, server: 172.67.214.21, port: 443, type: trojan, password: 7248e825-887c-48b9-83bc-c26bc6392bf8, sni: xXcdvFgt.191268.XYz, skip-cert-verify: true, udp: true}
+- {name: 34-829-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-9VmVbE7FgF.download.microsoft.com, tls: true, skip-cert-verify: true}, udp: true}
+- {name: 34-830-CN, server: 36.156.102.125, port: 329, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-831-CN, server: 36.156.102.125, port: 472, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: true, udp: true}
+- {name: 34-832-HK, server: ss.039.node-for-bigairport.win, port: 40408, type: ss, cipher: aes-256-gcm, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53}
+- {name: 34-833-HK, server: ss.038.node-for-bigairport.win, port: 11688, type: ss, cipher: aes-256-gcm, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53}
+- {name: 34-834-SC, server: 156.251.179.139, port: 636, type: ss, cipher: aes-256-gcm, password: 0b191076d18f, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /ugiibpkbca, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-835-HK, server: zz.xn--mes91t7ofgnw.com, port: 8081, type: ss, cipher: 2022-blake3-aes-128-gcm, password: Yzg1YmEyOWM5YjgyODg1Yg==:MGJmNTg4OWQtN2ZjMi00Yw==}
+- {name: 34-836-SG, server: 202.79.161.21, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.20850772.xyz}}, udp: true}
+- {name: 34-837-SG, server: 202.79.161.118, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.20850772.xyz}}, udp: true}
+- {name: 34-838-RELAY, server: 104.26.5.16, port: 2083, type: vmess, uuid: c208e0ae-6f6d-4745-99da-44a44744c530, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: "/linkwsrt?ed=2560", headers: {host: blaze-ger-248.blazecloudmain.site}}, udp: true}
+- {name: 34-839-RELAY, server: 172.67.72.15, port: 2083, type: vmess, uuid: c208e0ae-6f6d-4745-99da-44a44744c530, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: "/linkwsrt?ed=2560", headers: {host: blaze-ger-248.blazecloudmain.site}}, udp: true}
+- {name: 34-840-DE, server: universal.opengate.wiki, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: trErto8XzLALaQEslTp_jw}
+- {name: 34-841-DE, server: 85.208.139.158, port: 25607, type: ss, cipher: chacha20-ietf-poly1305, password: 7PPaSwxp3LLgJmWcpSclK6}
+- {name: 34-842-JP, server: 104.233.174.39, port: 34001, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /path/191019072927, headers: {host: www.36081115.xyz}}, udp: true}
+- {name: 34-843-JP, server: sakura.outlinekeys.net, port: 1235, type: ss, cipher: chacha20-ietf-poly1305, password: rhGz9UAp47At0PKbD4Lo5A}
+- {name: 34-844-FR, server: 109.172.55.38, port: 22695, type: ss, cipher: chacha20-ietf-poly1305, password: uE1eKTXRZcZHOnPSfB6jgz}
+- {name: 34-845-US, server: fox-usa.outlinekeys.net, port: 34868, type: ss, cipher: chacha20-ietf-poly1305, password: um2h1vWlmNLwKcN18ySgLQ}
+- {name: 34-846-US, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T}
+- {name: 34-847-US, server: vall.codefyinc.com, port: 443, type: vmess, uuid: 606ece17-7279-4a43-b879-f8502103de8f, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /vmessws, headers: {host: vall.codefyinc.com}}, udp: true}
+- {name: 34-848-RELAY, server: 141.11.203.26, port: 8880, type: vmess, uuid: 1fcb582e-7ffb-3708-8a0f-96c2a070e40d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/dabai&Telegram🇨🇳@WangCai2/?ed=2560", headers: {host: TG.WangCai2.s2.cn-db.top}}, udp: true}
+- {name: 34-849-US, server: 216.24.57.30, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: true, udp: true}
+- {name: 34-850-NOWHERE, server: 103.160.204.1, port: 443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-851-RELAY, server: 156.238.18.220, port: 8443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-852-RELAY, server: 156.238.19.8, port: 443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-853-NOWHERE, server: 103.160.204.4, port: 2083, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-854-RELAY, server: 154.83.2.125, port: 2087, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubsvip.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-855-NOWHERE, server: 103.160.204.49, port: 2096, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-856-GB, server: 89.185.84.172, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PPDI4eTCSUzQ}
+- {name: 34-857-NL, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH}
+- {name: 34-858-NL, server: 185.245.107.250, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-859-VN, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA}
+- {name: 34-860-VN, server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"}
