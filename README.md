@@ -35,18 +35,18 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1032`
+当前合并节点总数: `1045`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `11`
 - [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `47`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `0`
 - [huanjk1/V2rayN_Clash_Node_Getter](https://github.com/huanjk1/V2rayN_Clash_Node_Getter), 节点数量: `47`
-- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), 节点数量: `158`
+- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), 节点数量: `167`
 - [1vxiaov/free_proxies](https://github.com/vxiaov/free_proxies), 节点数量: `26`
 - [snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `40`
 - [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes), 节点数量: `0`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `9`
 - [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `4`
-- [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `49`
+- [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `53`
 - [shahidbhutta/Clash](https://github.com/shahidbhutta/Clash), 节点数量: `0`
 - [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `43`
 - [free18/v2ray](https://github.com/free18/v2ray), 节点数量: `135`
