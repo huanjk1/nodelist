@@ -544,7 +544,7 @@ proxies:
 - {name: 34-0542-NL, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
 - {name: 34-0543-ES, server: 5.188.181.201, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9}
 - {name: 34-0544-LT, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-- {name: 34-0545-LT, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+- {name: 34-0545-AE, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
 - {name: 34-0546-KR, server: 154.90.63.177, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 34-0547-VN, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 34-0548-NL, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH}
@@ -634,37 +634,37 @@ proxies:
 - {name: 34-0632-FR, server: 107.191.63.241, port: 30665, type: ss, cipher: chacha20-ietf-poly1305, password: 44fe4b7d-cd48-45fc-a036-60ea40e4a96c}
 - {name: 34-0633-RELAY, server: orvps2.horsenma.net, port: 8443, type: vmess, uuid: 57e595e6-ef54-4e0d-b8df-e96db9612b99, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /horsen, headers: {host: orvps2.horsenma.net}}, udp: true}
 - {name: 34-0634-RELAY, server: time.is, port: 80, type: vmess, uuid: 66ddd790-10ed-4a16-b334-0b7e3577b5b7, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: kr.xiaoqi666.xyz}}, udp: true}
-- {name: 34-0635-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 4d0cdbf0-3678-4a09-a994-32b3f8aba485, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0636-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 14a00c8f-8d15-4345-bbdb-94895616056e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0637-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 394ee3b2-598c-4bc4-8cf2-9a55647954aa, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0638-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 7663e5d0-5eee-4a5e-9708-a560316cab8a, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0639-US, server: 45.40.152.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
-- {name: 34-0640-RELAY, server: 66.81.247.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
-- {name: 34-0641-RELAY, server: 154.83.2.61, port: 8443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-0642-RU, server: 45.136.245.177, port: 23160, type: vmess, uuid: 2ddc339a-af3b-46ba-9df0-72d250657e60, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0643-KZ, server: 194.76.18.129, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: true, udp: true}
-- {name: 34-0644-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: f349c0e6-ea84-45be-8278-d44f912b01f5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0645-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 023d3b6b-c0a9-4765-af1b-db35c31ef8eb, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0646-CN, server: tun.tuzivip.pw, port: 23764, type: ss, cipher: chacha20-ietf-poly1305, password: 18a44d30-ff78-47a0-a3fc-e6fe3bdda902}
-- {name: 34-0647-RELAY, server: 45.80.111.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
-- {name: 34-0648-RELAY, server: 172.67.207.57, port: 443, type: trojan, password: yaml777, sni: yaml7.ggff.net, skip-cert-verify: true, udp: true}
-- {name: 34-0649-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 20b2d861-08a1-487b-87d4-bd1e7c1a0b66, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0650-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 204f0084-a2ea-4dc4-a015-966a70692512, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0651-SC, server: yinni01.tmdns-sing.top, port: 13879, type: ss, cipher: aes-128-gcm, password: 6b1e5475-7661-4921-aa26-d11758b2f3f1}
-- {name: 34-0652-TW, server: cdntwa.xiaomispeed.com, port: 39769, type: trojan, password: 63e50141-a625-4b21-8dd7-28c8b3152914, sni: cdntwa.xiaomispeed.com, skip-cert-verify: true, udp: true}
-- {name: 34-0653-RU, server: 45.67.215.95, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: true, udp: true}
-- {name: 34-0654-US, server: 198.62.62.4, port: 443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-0655-RELAY, server: 154.83.2.94, port: 2053, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
-- {name: 34-0656-CN, server: v8.heduian.link, port: 30808, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: v8.heduian.link}}, udp: true}
-- {name: 34-0657-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 8038884f-744d-4bd5-b3d3-5b208d332a13, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0658-RU, server: 45.136.245.177, port: 23160, type: vmess, uuid: 341d442d-3270-4e14-9aff-94ba5c1b2adf, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0659-CN, server: tun.tuzivip.pw, port: 47296, type: ss, cipher: chacha20-ietf-poly1305, password: 6701a5e9-5d74-4d85-b199-586a25969bf1}
-- {name: 34-0660-CN, server: v24.heduian.link, port: 30824, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
-- {name: 34-0661-RELAY, server: 74.49.215.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
-- {name: 34-0662-HK, server: hk1-20250813213806be3c17japantm01.tmdns-sing.top, port: 13872, type: ss, cipher: aes-128-gcm, password: 6b1e5475-7661-4921-aa26-d11758b2f3f1}
-- {name: 34-0663-CN, server: tun.tuzivip.pw, port: 47296, type: ss, cipher: chacha20-ietf-poly1305, password: bfdef80e-0108-4ad6-a3fd-1497a1bb9494}
-- {name: 34-0664-RU, server: 45.136.245.177, port: 23160, type: vmess, uuid: aff739f3-e277-4be1-a8c2-1b6b9462971a, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: 34-0665-CN, server: v39.heduian.link, port: 30839, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
+- {name: 34-0635-CN, server: 120.233.44.206, port: 36555, type: ss, cipher: chacha20-ietf-poly1305, password: 91bad176-7c87-4e2a-bc4c-cf979cf19e41}
+- {name: 34-0636-CN, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: b448e5b3-748b-45eb-b12b-c4e4acf2997b}
+- {name: 34-0637-CN, server: 120.233.44.206, port: 33922, type: ss, cipher: chacha20-ietf-poly1305, password: 3dce31b2-643f-44a2-b272-faf469bf0088}
+- {name: 34-0638-CN, server: tun.tuzivip.pw, port: 27004, type: ss, cipher: chacha20-ietf-poly1305, password: 49333ad2-2eba-48ca-b9b9-7d99410d3b3b}
+- {name: 34-0639-RELAY, server: 154.83.2.61, port: 8443, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-0640-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 3b944a8e-5833-40b8-ad24-c55b3ca30a58, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0641-CN, server: v39.heduian.link, port: 30839, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: baidu.com}}, udp: true}
+- {name: 34-0642-CN, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: b448e5b3-748b-45eb-b12b-c4e4acf2997b}
+- {name: 34-0643-US, server: ssm.pimax.com, port: 10820, type: vmess, uuid: 68876abb-0e56-4beb-b959-34a4bc57a6a2, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /fkgevws, headers: {host: ssm.pimax.com}}, udp: true}
+- {name: 34-0644-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 7663e5d0-5eee-4a5e-9708-a560316cab8a, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0645-TW, server: cdntwa.xiaomispeed.com, port: 33838, type: trojan, password: 07abe04b-747a-4abe-97d8-8c93839a3928, sni: cdntwa.xiaomispeed.com, skip-cert-verify: true, udp: true}
+- {name: 34-0646-US, server: 72.167.25.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
+- {name: 34-0647-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: e2669108-b8b6-474f-bf4d-59672100e7f4, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0648-CN, server: tun.tuzivip.pw, port: 23764, type: ss, cipher: chacha20-ietf-poly1305, password: 16cfcd82-d709-43e5-af8c-d3785dee3ad3}
+- {name: 34-0649-US, server: 63.141.128.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
+- {name: 34-0650-RELAY, server: 104.17.128.1, port: 2096, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubssss.dpdns.org, skip-cert-verify: true, udp: true}
+- {name: 34-0651-CN, server: tun.tuzivip.pw, port: 23764, type: ss, cipher: chacha20-ietf-poly1305, password: e8159f0b-e180-4741-92a3-4dfece7a9f6d}
+- {name: 34-0652-CN, server: tun.tuzivip.pw, port: 27004, type: ss, cipher: chacha20-ietf-poly1305, password: 138d14e8-5565-40e7-a3a4-0b0cbca27a83}
+- {name: 34-0653-CN, server: 120.233.44.206, port: 33922, type: ss, cipher: chacha20-ietf-poly1305, password: 4a93003e-6213-463c-b85d-32e27d816a47}
+- {name: 34-0654-CN, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 86b524cc-3ac2-4358-97f9-2e2e5e87c0f5}
+- {name: 34-0655-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 16b3c746-5abc-43ce-a158-ac559ee7a8e3, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0656-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 69ee436d-ec6f-4705-a4e6-ad11f86bede5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0657-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 696de59b-4fe8-4d57-be71-ce95483bdb47, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0658-RELAY, server: 86.38.214.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
+- {name: 34-0659-TW, server: cdntwa.xiaomispeed.com, port: 39769, type: trojan, password: 3dce31b2-643f-44a2-b272-faf469bf0088, sni: cdntwa.xiaomispeed.com, skip-cert-verify: true, udp: true}
+- {name: 34-0660-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 4d0cdbf0-3678-4a09-a994-32b3f8aba485, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0661-RU, server: 45.136.245.177, port: 23160, type: vmess, uuid: 062ffa1d-c35b-4c3a-a546-8d4d57c4c887, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0662-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: 61d55ebd-3f82-4680-be3c-5269588a2187, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0663-RU, server: 45.136.245.177, port: 22097, type: vmess, uuid: b0ad33ed-0f71-4b0c-8058-b6ff5a056edb, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
+- {name: 34-0664-SC, server: 156.251.179.181, port: 636, type: ss, cipher: aes-256-gcm, password: 23d03aa704c7, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: cmihk3v1.dsjsapp.com, path: /grqhyifio, tls: true, mux: true, skip-cert-verify: true}, udp: true}
+- {name: 34-0665-RELAY, server: 88.216.69.216, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: true, udp: true}
 - {name: 34-0666-CN, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: ocbc.com}}, udp: true}
 - {name: 34-0667-US, server: 154.3.8.151, port: 30067, type: ss, cipher: aes-256-gcm, password: iUB0923RBA}
 - {name: 34-0668-US, server: usa022.tmdns-sing.top, port: 13892, type: ss, cipher: aes-128-gcm, password: 6b1e5475-7661-4921-aa26-d11758b2f3f1}
