@@ -117,7 +117,7 @@ proxies:
 - {name: 34-0115-NL, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
 - {name: 34-0116-NL, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
 - {name: 34-0117-GB, server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-- {name: 34-0118-AE, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+- {name: 34-0118-LT, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
 - {name: 34-0119-FR, server: 45.158.171.110, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
 - {name: 34-0120-GB, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 34-0121-GB, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
@@ -793,7 +793,7 @@ proxies:
 - {name: 34-0791-CN, server: mm.huawei-api.top, port: 19852, type: ss, cipher: chacha20-ietf-poly1305, password: feafc2ef-d5fd-4f6d-803b-fad4a5cc1f0e}
 - {name: 34-0792-RELAY, server: 104.21.91.180, port: 443, type: trojan, password: bce0c7cb-08d1-46a7-b77b-7bff8b46252f, sni: XXXXxxXxXc.666461.xyZ, skip-cert-verify: true, udp: true}
 - {name: 34-0793-CN, server: pop.ultra.6341.0tk8a3a1q4t94dler.com, port: 7059, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=}
-- {name: 34-0794-NOWHERE, server: aio.unlimited.biz.id, port: 443, type: vmess, uuid: f282b878-8711-45a1-8c69-5564172123c1, alterId: 0, cipher: zero, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /aioproxybot/129.150.49.58-18650, headers: {host: aio.unlimited.biz.id}}, udp: true}
+- {name: 34-0794-RELAY, server: aio.unlimited.biz.id, port: 443, type: vmess, uuid: f282b878-8711-45a1-8c69-5564172123c1, alterId: 0, cipher: zero, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /aioproxybot/129.150.49.58-18650, headers: {host: aio.unlimited.biz.id}}, udp: true}
 - {name: 34-0795-MD, server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 34-0796-CN, server: wujrnbitcet.gym0boy.com, port: 59270, type: ss, cipher: aes-256-gcm, password: 86247d47-7e97-41f4-8701-d12f9cfde982}
 - {name: 34-0797-CN, server: v30.heduian.link, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /oooo, headers: {host: ocbc.com}}, udp: true}
