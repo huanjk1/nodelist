@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `903`
+当前合并节点总数: `934`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `11`
 - [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `73`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `18`
@@ -46,7 +46,7 @@
 - [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes), 节点数量: `0`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `3`
 - [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `11`
-- [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `3`
+- [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `34`
 - [shahidbhutta/Clash](https://github.com/shahidbhutta/Clash), 节点数量: `0`
 - [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `102`
 - [free18/v2ray](https://github.com/free18/v2ray), 节点数量: `23`
