@@ -279,7 +279,7 @@ proxies:
 - {name: 34-0277-CH, server: 156.146.62.162, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 34-0278-CH, server: 156.146.62.163, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 34-0279-RO, server: 185.126.237.38, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-- {name: 34-0280-FR, server: lammaland.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /, headers: {host: lammaland.org}}, udp: true}
+- {name: 34-0280-DE, server: lammaland.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /, headers: {host: lammaland.org}}, udp: true}
 - {name: 34-0281-GB, server: 212.102.53.80, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
 - {name: 34-0282-NL, server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
 - {name: 34-0283-LT, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
@@ -1040,52 +1040,99 @@ proxies:
 - {name: 34-1038-CN, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509031722041-JFOtqRTqqb.download.microsoft.com, tls: true, skip-cert-verify: true}, udp: true}
 - {name: 34-1039-JP, server: xingxing.jiasu123.org, port: 4801, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: true, udp: true}
 - {name: 34-1040-JP, server: xingxing.jiasu123.org, port: 4317, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: true, udp: true}
-- {name: 34-1041-TW, server: 114.33.53.213, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: ed7b6c5e-4658-426e-9764-13226b4256d8}
-- {name: 34-1042-TW, server: 59.126.32.59, port: 10066, type: ss, cipher: chacha20-ietf-poly1305, password: 674ee5a2-42e6-4c9f-ab6f-885f9c8e71c9}
-- {name: 34-1043-TW, server: 59.126.32.59, port: 10066, type: ss, cipher: chacha20-ietf-poly1305, password: 140e4cb2-a874-414b-a58b-c0300720fa7d}
-- {name: 34-1044-TW, server: okanc.iepl.cac.cab, port: 23001, type: trojan, password: 82d0fb76-b9ff-41c2-ba15-2aec44f78e7c, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 34-1045-AT, server: 77.110.110.117, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9JeYy8SkViXuSHVs9GFeSe}
-- {name: 34-1046-AT, server: promo6v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9JeYy8SkViXuSHVs9GFeSe}
-- {name: 34-1047-AT, server: 95.163.176.37, port: 8506, type: ss, cipher: chacha20-ietf-poly1305, password: VdswxetVc6AhIps18rtYbm}
-- {name: 34-1048-NO, server: 185.213.23.226, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1049-FR, server: 51.44.106.132, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-- {name: 34-1050-US, server: 38.107.226.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 34-1051-US, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T}
-- {name: 34-1052-US, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: cWCt8FRw9qXHQaG59JrNLi}
-- {name: 34-1053-US, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx}
-- {name: 34-1054-US, server: 104.192.226.106, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 34-1055-RELAY, server: 188.244.122.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1056-RELAY, server: 185.148.105.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1057-RELAY, server: 185.18.250.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1058-FR, server: 185.16.110.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1059-RELAY, server: 195.26.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1060-US, server: 199.68.156.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1061-RELAY, server: 185.251.81.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1062-RELAY, server: 185.176.24.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1063-RELAY, server: 185.221.160.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1064-RELAY, server: 185.148.107.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1065-RELAY, server: 185.251.83.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1066-RELAY, server: 185.251.80.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1067-RELAY, server: 185.7.240.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1068-RELAY, server: 194.36.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1069-RELAY, server: 188.164.248.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1070-RELAY, server: 193.9.49.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1071-RELAY, server: 188.42.145.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1072-RELAY, server: 195.13.54.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1073-RELAY, server: 195.13.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1074-US, server: 192.0.54.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1075-US, server: 192.200.160.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1076-RELAY, server: 185.148.104.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1077-US, server: 216.24.57.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1078-RELAY, server: 185.148.106.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1079-RELAY, server: 193.124.224.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1080-US, server: 199.34.229.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1081-US, server: 192.0.63.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1082-RELAY, server: 209.46.30.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1083-RELAY, server: 205.233.181.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1084-RELAY, server: 199.181.197.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1085-US, server: 198.62.62.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1086-RELAY, server: 195.13.45.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1087-RELAY, server: 192.65.217.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
-- {name: 34-1088-NL, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH}
-- {name: 34-1089-KR, server: kr2.qiangdong.xyz, port: 1052, type: ss, cipher: aes-128-gcm, password: VXPipi29nxMO, plugin: obfs, plugin-opts: {mode: http, host: 182039459a34f64238143cd31ddebbc914362.taobao.com, tls: true, skip-cert-verify: true}, udp: true}
+- {name: 34-1041-TW, server: 1.170.11.24, port: 10085, type: ss, cipher: chacha20-ietf-poly1305, password: 9394cbfd-96c5-4f18-8c32-7ebada102379}
+- {name: 34-1042-TW, server: 36.234.68.116, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: e8b66024-6718-418e-9823-0ea997a8d75f}
+- {name: 34-1043-TW, server: 114.46.92.92, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 43e1e672-5e18-4d87-bc72-89e552990406}
+- {name: 34-1044-TW, server: 1.165.73.159, port: 10002, type: ss, cipher: chacha20-ietf-poly1305, password: 9394cbfd-96c5-4f18-8c32-7ebada102379}
+- {name: 34-1045-TW, server: 118.170.202.157, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: b24ddb28-fc6d-466e-a7ab-b361956970d1}
+- {name: 34-1046-TW, server: 118.170.219.68, port: 10059, type: ss, cipher: chacha20-ietf-poly1305, password: 340fbd5e-82c0-4d5e-b799-b29ce87c4d4f}
+- {name: 34-1047-TW, server: 125.230.23.36, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 24d39bf1-a8d0-4f07-929a-bbbe15123846}
+- {name: 34-1048-TW, server: 111.253.207.240, port: 10098, type: ss, cipher: chacha20-ietf-poly1305, password: c9881f3c-e0ab-456a-b931-82a9687fd6d3}
+- {name: 34-1049-TW, server: 1.170.47.9, port: 10100, type: ss, cipher: chacha20-ietf-poly1305, password: c8449ac9-14ff-42ca-b6cf-816d743fdd23}
+- {name: 34-1050-TW, server: 1.170.11.24, port: 10085, type: ss, cipher: chacha20-ietf-poly1305, password: 24d39bf1-a8d0-4f07-929a-bbbe15123846}
+- {name: 34-1051-TW, server: 36.232.69.138, port: 10146, type: ss, cipher: chacha20-ietf-poly1305, password: b24ddb28-fc6d-466e-a7ab-b361956970d1}
+- {name: 34-1052-TW, server: 1.170.11.24, port: 10085, type: ss, cipher: chacha20-ietf-poly1305, password: 340fbd5e-82c0-4d5e-b799-b29ce87c4d4f}
+- {name: 34-1053-TW, server: 118.170.204.149, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 547ad509-c514-465f-9668-5904af29a233}
+- {name: 34-1054-TW, server: 114.46.110.39, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: c9881f3c-e0ab-456a-b931-82a9687fd6d3}
+- {name: 34-1055-TW, server: 125.229.191.101, port: 10007, type: ss, cipher: chacha20-ietf-poly1305, password: d15235c9-49b1-461e-a782-beb01857634d}
+- {name: 34-1056-TW, server: 118.170.216.104, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: e952ef79-5444-4431-aed1-fa76e651263f}
+- {name: 34-1057-TW, server: 111.253.207.240, port: 10098, type: ss, cipher: chacha20-ietf-poly1305, password: 547ad509-c514-465f-9668-5904af29a233}
+- {name: 34-1058-TW, server: 36.232.69.138, port: 10146, type: ss, cipher: chacha20-ietf-poly1305, password: 24d39bf1-a8d0-4f07-929a-bbbe15123846}
+- {name: 34-1059-TW, server: 118.170.219.68, port: 10059, type: ss, cipher: chacha20-ietf-poly1305, password: d15235c9-49b1-461e-a782-beb01857634d}
+- {name: 34-1060-TW, server: 114.46.93.196, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 24d39bf1-a8d0-4f07-929a-bbbe15123846}
+- {name: 34-1061-TW, server: 118.170.216.104, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: f64ec4c4-d382-467e-b647-6f30099913f6}
+- {name: 34-1062-TW, server: 118.170.216.58, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff4b7c3-47f3-4a9b-97ba-d217a92e1600}
+- {name: 34-1063-TW, server: 118.170.216.104, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 61a4d0c1-2d13-4fc9-a821-10562deccef1}
+- {name: 34-1064-TW, server: 118.170.204.156, port: 10006, type: ss, cipher: chacha20-ietf-poly1305, password: c8449ac9-14ff-42ca-b6cf-816d743fdd23}
+- {name: 34-1065-TW, server: 1.170.2.19, port: 10083, type: ss, cipher: chacha20-ietf-poly1305, password: 61a4d0c1-2d13-4fc9-a821-10562deccef1}
+- {name: 34-1066-TW, server: 114.46.92.92, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 30ac1116-2995-469d-b272-cc58f911eb08}
+- {name: 34-1067-TW, server: 36.234.68.116, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: b30118ca-6bed-446a-979f-c1ff17eeca31}
+- {name: 34-1068-TW, server: 125.229.191.101, port: 10007, type: ss, cipher: chacha20-ietf-poly1305, password: b24ddb28-fc6d-466e-a7ab-b361956970d1}
+- {name: 34-1069-TW, server: 125.228.162.233, port: 10145, type: ss, cipher: chacha20-ietf-poly1305, password: ca52d052-b0c2-4daf-aff9-a2aaea76c787}
+- {name: 34-1070-TW, server: 114.46.110.39, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: e8b66024-6718-418e-9823-0ea997a8d75f}
+- {name: 34-1071-TW, server: 114.46.69.142, port: 10078, type: ss, cipher: chacha20-ietf-poly1305, password: f87588c4-f759-4634-9b63-32032ede64bd}
+- {name: 34-1072-TW, server: 36.232.69.138, port: 10146, type: ss, cipher: chacha20-ietf-poly1305, password: 43e1e672-5e18-4d87-bc72-89e552990406}
+- {name: 34-1073-TW, server: 36.232.69.138, port: 10146, type: ss, cipher: chacha20-ietf-poly1305, password: 6b0b787f-a994-412a-8e80-74b286e80459}
+- {name: 34-1074-TW, server: 125.230.21.104, port: 10020, type: ss, cipher: chacha20-ietf-poly1305, password: 54c77879-4d99-4c71-9914-ad9b7215df9e}
+- {name: 34-1075-TW, server: 125.230.23.36, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: e8b66024-6718-418e-9823-0ea997a8d75f}
+- {name: 34-1076-TW, server: 114.46.110.39, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 547ad509-c514-465f-9668-5904af29a233}
+- {name: 34-1077-TW, server: 36.234.72.84, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 43e1e672-5e18-4d87-bc72-89e552990406}
+- {name: 34-1078-TW, server: 36.234.68.116, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 3c3e66d5-1910-4994-9425-737ec6092b78}
+- {name: 34-1079-TW, server: 1.165.82.161, port: 10027, type: ss, cipher: chacha20-ietf-poly1305, password: 24d39bf1-a8d0-4f07-929a-bbbe15123846}
+- {name: 34-1080-TW, server: 1.165.72.103, port: 10010, type: ss, cipher: chacha20-ietf-poly1305, password: f87588c4-f759-4634-9b63-32032ede64bd}
+- {name: 34-1081-TW, server: 125.228.31.10, port: 10113, type: ss, cipher: chacha20-ietf-poly1305, password: d5abead3-0b9d-4ff8-9ecc-f0ad5ef0a192}
+- {name: 34-1082-TW, server: 114.46.71.121, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 254618df-ecc6-46a4-9619-8934138c8add}
+- {name: 34-1083-TW, server: 125.228.162.233, port: 10145, type: ss, cipher: chacha20-ietf-poly1305, password: 43e1e672-5e18-4d87-bc72-89e552990406}
+- {name: 34-1084-TW, server: 125.229.191.101, port: 10007, type: ss, cipher: chacha20-ietf-poly1305, password: 061cb847-4ee8-44bf-ac54-4eb33ee2ebbb}
+- {name: 34-1085-TW, server: 118.170.216.104, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: d15235c9-49b1-461e-a782-beb01857634d}
+- {name: 34-1086-TW, server: 114.35.114.182, port: 10129, type: ss, cipher: chacha20-ietf-poly1305, password: f87588c4-f759-4634-9b63-32032ede64bd}
+- {name: 34-1087-TW, server: 114.46.110.39, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: d5abead3-0b9d-4ff8-9ecc-f0ad5ef0a192}
+- {name: 34-1088-TW, server: 125.228.162.233, port: 10145, type: ss, cipher: chacha20-ietf-poly1305, password: c9881f3c-e0ab-456a-b931-82a9687fd6d3}
+- {name: 34-1089-TW, server: 125.231.72.120, port: 10065, type: ss, cipher: chacha20-ietf-poly1305, password: c8449ac9-14ff-42ca-b6cf-816d743fdd23}
+- {name: 34-1090-TW, server: 36.234.68.116, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 547ad509-c514-465f-9668-5904af29a233}
+- {name: 34-1091-TW, server: 125.230.23.36, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 4b21866d-7865-4b44-a53a-fd2831aa22cf}
+- {name: 34-1092-TW, server: 1.165.73.159, port: 10002, type: ss, cipher: chacha20-ietf-poly1305, password: 30ac1116-2995-469d-b272-cc58f911eb08}
+- {name: 34-1093-TW, server: 125.228.162.233, port: 10145, type: ss, cipher: chacha20-ietf-poly1305, password: d5abead3-0b9d-4ff8-9ecc-f0ad5ef0a192}
+- {name: 34-1094-TW, server: 125.230.21.104, port: 10020, type: ss, cipher: chacha20-ietf-poly1305, password: 61a4d0c1-2d13-4fc9-a821-10562deccef1}
+- {name: 34-1095-TW, server: 36.234.72.84, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 3d953287-7f64-4a54-bb46-e6bafa61a82d}
+- {name: 34-1096-TW, server: 118.170.219.68, port: 10059, type: ss, cipher: chacha20-ietf-poly1305, password: 54ee7c83-45dc-404d-8975-34fbcac92f87}
+- {name: 34-1097-TW, server: 125.230.23.36, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 54ee7c83-45dc-404d-8975-34fbcac92f87}
+- {name: 34-1098-TW, server: 1.165.82.161, port: 10027, type: ss, cipher: chacha20-ietf-poly1305, password: b24ddb28-fc6d-466e-a7ab-b361956970d1}
+- {name: 34-1099-TW, server: 114.33.53.213, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 6b0b787f-a994-412a-8e80-74b286e80459}
+- {name: 34-1100-TW, server: 1.170.11.24, port: 10085, type: ss, cipher: chacha20-ietf-poly1305, password: 6b0b787f-a994-412a-8e80-74b286e80459}
+- {name: 34-1101-TW, server: 59.126.32.1, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: c8449ac9-14ff-42ca-b6cf-816d743fdd23}
+- {name: 34-1102-TW, server: 36.234.72.84, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: f64ec4c4-d382-467e-b647-6f30099913f6}
+- {name: 34-1103-TW, server: 1.165.72.103, port: 10010, type: ss, cipher: chacha20-ietf-poly1305, password: e952ef79-5444-4431-aed1-fa76e651263f}
+- {name: 34-1104-TW, server: 1.170.11.24, port: 10085, type: ss, cipher: chacha20-ietf-poly1305, password: 54c77879-4d99-4c71-9914-ad9b7215df9e}
+- {name: 34-1105-TW, server: 125.228.162.233, port: 10145, type: ss, cipher: chacha20-ietf-poly1305, password: b30118ca-6bed-446a-979f-c1ff17eeca31}
+- {name: 34-1106-TW, server: 125.230.23.36, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 340fbd5e-82c0-4d5e-b799-b29ce87c4d4f}
+- {name: 34-1107-TW, server: 118.170.216.58, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: 61a4d0c1-2d13-4fc9-a821-10562deccef1}
+- {name: 34-1108-TW, server: 125.230.21.104, port: 10020, type: ss, cipher: chacha20-ietf-poly1305, password: c9881f3c-e0ab-456a-b931-82a9687fd6d3}
+- {name: 34-1109-TW, server: 1.165.82.161, port: 10027, type: ss, cipher: chacha20-ietf-poly1305, password: 4b21866d-7865-4b44-a53a-fd2831aa22cf}
+- {name: 34-1110-TW, server: 114.46.71.121, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: d5abead3-0b9d-4ff8-9ecc-f0ad5ef0a192}
+- {name: 34-1111-HK, server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com}}, udp: true}
+- {name: 34-1112-TR, server: 62.133.63.226, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-1113-DE, server: 3.65.97.31, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: 34-1114-DE, server: 3.65.97.31, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: 34-1115-MD, server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 34-1116-FR, server: 13.36.49.89, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true, udp: true}
+- {name: 34-1117-FR, server: 13.36.49.89, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: 34-1118-PL, server: 2.59.163.104, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-1119-PL, server: pl.opengate.tech, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-1120-US, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: cWCt8FRw9qXHQaG59JrNLi}
+- {name: 34-1121-US, server: cgroup.node5.s2.nodelist-airport.com, port: 27232, type: ss, cipher: aes-256-gcm, password: 8f3a835c-8a45-480d-ae35-1deb2c52dcae}
+- {name: 34-1122-US, server: 216.24.57.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1123-US, server: 198.62.62.87, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1124-RELAY, server: 195.13.44.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1125-RELAY, server: 194.36.55.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1126-KZ, server: 194.76.18.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1127-RELAY, server: 185.176.26.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1128-RELAY, server: 188.164.248.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1129-RELAY, server: 213.219.247.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1130-RELAY, server: 185.174.138.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1131-RELAY, server: 193.124.224.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: true, udp: true}
+- {name: 34-1132-NL, server: 91.84.104.133, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA}
+- {name: 34-1133-VN, server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+- {name: 34-1134-VN, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+- {name: 34-1135-VN, server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+- {name: 34-1136-VN, server: 103.186.154.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}

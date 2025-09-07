@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1088`
+当前合并节点总数: `1135`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `6`
 - [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `73`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `19`
@@ -55,7 +55,7 @@
 - [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub), 节点数量: `20`
 - [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs), 节点数量: `0`
 - [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `19`
-- [go4sharing/sub](https://github.com/go4sharing/sub), 节点数量: `49`
+- [go4sharing/sub](https://github.com/go4sharing/sub), 节点数量: `96`
 
 ## 客户端选择
 ### 主流桌面客户端
