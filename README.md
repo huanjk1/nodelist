@@ -35,9 +35,9 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1451`
+当前合并节点总数: `1706`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `63`
-- [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `65`
+- [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `336`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `0`
 - [huanjk1/V2rayN_Clash_Node_Getter](https://github.com/huanjk1/V2rayN_Clash_Node_Getter), 节点数量: `450`
 - [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), 节点数量: `184`
@@ -49,7 +49,7 @@
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `32`
 - [shahidbhutta/Clash](https://github.com/shahidbhutta/Clash), 节点数量: `0`
 - [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `79`
-- [free18/v2ray](https://github.com/free18/v2ray), 节点数量: `73`
+- [free18/v2ray](https://github.com/free18/v2ray), 节点数量: `57`
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `22`
 - [mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `92`
 - [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub), 节点数量: `143`
