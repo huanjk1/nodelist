@@ -35,12 +35,12 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1014`
+当前合并节点总数: `1019`
 - [v2rayshare_subcription](https://github.com/firefoxmmx2/v2rayshare_subcription), 节点数量: `8`
 - [Q3dlaXpoaQ/V2rayN_Clash_Node_Getter](https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter), 节点数量: `68`
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free), 节点数量: `18`
 - [huanjk1/V2rayN_Clash_Node_Getter](https://github.com/huanjk1/V2rayN_Clash_Node_Getter), 节点数量: `76`
-- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), 节点数量: `187`
+- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), 节点数量: `182`
 - [1vxiaov/free_proxies](https://github.com/vxiaov/free_proxies), 节点数量: `26`
 - [snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `48`
 - [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes), 节点数量: `0`
@@ -52,7 +52,7 @@
 - [free18/v2ray](https://github.com/free18/v2ray), 节点数量: `8`
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `29`
 - [mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `92`
-- [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub), 节点数量: `35`
+- [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub), 节点数量: `45`
 - [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs), 节点数量: `0`
 - [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `18`
 - [go4sharing/sub](https://github.com/go4sharing/sub), 节点数量: `225`
